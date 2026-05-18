@@ -2,12 +2,6 @@
 <br>
 <br>
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=whdidgma94&layout=compact)
-<br>
-<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whdidgma94&show_icons=true&theme=e.g)
-<br>
-<br>
 <h3>🛠 Tech Stack 🛠</h3>
 
 <p>
